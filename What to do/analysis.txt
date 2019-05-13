@@ -1,0 +1,22 @@
+5. Preliminary analysis on the venue types
+6. Get all the categories and analyze, analyze main six categories and calculate their percentage
+7. Analyze restaurants
+	Types of restaurant in three cities
+	the top type in San Francisco is Chinese, Mexican and Italian
+	Chinese restaurants in London and Moscow
+	Mexican restaurants in London and Moscow
+	Italian restaurants in London and Moscow
+
+	Italian restaurants cluster analysis in London
+8. Analyze bars/coffee shops
+	types of bars in three cities
+	distributions of bars in three cities
+	bars clustering analysis
+
+9. Entertainments
+	types of entertaiments
+	distribution of entertainments in three cities
+
+10. Gyms 
+	types of gyms
+	distribution of gyms
